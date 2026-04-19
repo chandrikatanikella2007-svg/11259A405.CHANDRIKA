@@ -6,7 +6,6 @@ printf("Enter two numbers: ");
 scanf("%f %f", &num1, &num2); 
 printf("\nMenu:\n");
 printf("1. Addition\n");
-24 | P a g e
 printf("2. Subtraction\n");
 printf("3. Multiplication\n"); 
 printf("4. Division\n"); 

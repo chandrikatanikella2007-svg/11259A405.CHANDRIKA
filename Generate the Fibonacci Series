@@ -12,7 +12,6 @@ continue;
 }
 if (i == 2) {
 printf("%d ", second);
-29 | P a g e
 continue;
 }
 next = first + second; 
